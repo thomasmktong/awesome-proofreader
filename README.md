@@ -6,3 +6,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - https://github.com/kdzwinel/Proofreader
 - https://github.com/wooorm/alex
+- https://github.com/wooorm/retext-simplify
+- https://github.com/wooorm/retext-equality
+
+Good Articles
+
+- https://www.mapbox.com/blog/retext-mapbox-standard/
